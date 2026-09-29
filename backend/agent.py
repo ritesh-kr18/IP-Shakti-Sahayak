@@ -4,6 +4,12 @@ import hashlib
 import warnings
 from pathlib import Path
 from datetime import datetime, timezone
+
+# 🚨 MEMORY OPTIMIZATION FOR RENDER FREE TIER 🚨
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
 from dotenv import load_dotenv
 
 # Load environment variables from .env file automatically
