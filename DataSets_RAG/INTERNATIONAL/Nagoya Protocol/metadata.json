@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits",
+    "filename": "Nagoya_Protocol_Official_Text_English.pdf",
+    "description": "Supplementary agreement to the Convention on Biological Diversity establishing legally binding obligations for prior informed consent (PIC) and mutually agreed terms (MAT).",
+    "source": "Convention on Biological Diversity (CBD) Secretariat",
+    "source_urls": [
+      "https://www.cbd.int/abs/doc/protocol/nagoya-protocol-en.pdf"
+    ],
+    "file_size_bytes": 502368,
+    "downloaded_at": "2026-09-03T21:13:14.828192",
+    "status": "success"
+  },
+  {
+    "title": "Convention on Biological Diversity (CBD) 1992 Text",
+    "filename": "Convention_on_Biological_Diversity_1992.pdf",
+    "description": "Parent treaty establishing national sovereign rights over biological resources and traditional knowledge.",
+    "source": "CBD Secretariat",
+    "source_urls": [
+      "https://www.cbd.int/doc/legal/cbd-en.pdf"
+    ],
+    "file_size_bytes": 4551079,
+    "downloaded_at": "2026-09-03T21:13:15.507956",
+    "status": "success"
+  },
+  {
+    "title": "FAO International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA)",
+    "filename": "ITPGRFA_Seed_Treaty_FAO.pdf",
+    "description": "Global multilateral system of access and benefit-sharing for plant genetic resources crucial for agriculture.",
+    "source": "Food and Agriculture Organization (FAO)",
+    "source_urls": [
+      "https://www.fao.org/3/i0510e/i0510e.pdf",
+      "https://treaties.un.org/doc/Publication/UNTS/No%20Volume/45/Part/I-45-080000028004f2f4.pdf"
+    ],
+    "file_size_bytes": 3657714,
+    "downloaded_at": "2026-09-03T21:13:19.678695",
+    "status": "success"
+  }
+]

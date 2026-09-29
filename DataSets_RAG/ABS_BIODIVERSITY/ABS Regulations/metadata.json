@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Access and Benefit Sharing (ABS) Mechanism & Case Compendium",
+    "filename": "ABS_Mechanism_and_Regulations_Compendium.html",
+    "description": "Compendium of ABS best practices, voluntary codes of conduct, and international ABS operational guidelines.",
+    "source": "National Biodiversity Authority / CBD",
+    "source_urls": [
+      "http://nbaindia.org/uploaded/pdf/ABS_Good_Practices.pdf",
+      "https://www.cbd.int/abs/doc/protocol/nagoya-protocol-en.pdf"
+    ],
+    "file_size_bytes": 62940,
+    "downloaded_at": "2026-09-03T21:10:06.570943",
+    "status": "success"
+  },
+  {
+    "title": "Bonn Guidelines on Access to Genetic Resources and Benefit Sharing",
+    "filename": "Bonn_Guidelines_CBD.pdf",
+    "description": "Foundational voluntary guidelines adopted under CBD on access and benefit sharing regimes.",
+    "source": "CBD Secretariat",
+    "source_urls": [
+      "https://www.cbd.int/doc/publications/cbd-bonn-gdls-en.pdf"
+    ],
+    "file_size_bytes": 170880,
+    "downloaded_at": "2026-09-03T21:10:06.895068",
+    "status": "success"
+  }
+]

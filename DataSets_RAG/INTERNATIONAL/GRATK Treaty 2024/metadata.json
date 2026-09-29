@@ -1,0 +1,26 @@
+[
+  {
+    "title": "WIPO Treaty on Intellectual Property Genetic Resources and Associated Traditional Knowledge 2024",
+    "filename": "WIPO_GRATK_Treaty_2024_Final_Text.pdf",
+    "description": "Historic treaty adopted on May 24, 2024 establishing mandatory patent disclosure requirements for inventions based on genetic resources and associated traditional knowledge.",
+    "source": "World Intellectual Property Organization (WIPO)",
+    "source_urls": [
+      "https://www.wipo.int/edocs/mdocs/tk/en/gratk_dc/gratk_dc_7.pdf",
+      "https://www.wipo.int/edocs/mdocs/tk/en/gratk_dc/gratk_dc_8.pdf"
+    ],
+    "file_size_bytes": 278276,
+    "downloaded_at": "2026-09-03T21:13:19.928298",
+    "status": "success"
+  },
+  {
+    "title": "WIPO Intergovernmental Committee on IP and Genetic Resources (IGC) Background",
+    "filename": "WIPO_IGC_Traditional_Knowledge_Brief.pdf",
+    "description": "Official background and negotiating trajectory leading up to the 2024 GRATK Treaty.",
+    "source": "WIPO",
+    "source_urls": [
+      "https://www.wipo.int/edocs/pubdocs/en/wipo_pub_tk_2.pdf"
+    ],
+    "status": "failed",
+    "error": "Failed to download after trying 1 source URL(s)"
+  }
+]

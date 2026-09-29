@@ -1,0 +1,811 @@
+--- Page 1 of 26 ---
+Bonn Guidelines on 
+Access to Genetic 
+Resources and Fair and
+Equitable Sharing of the
+Benefits Arising out of 
+their Utilization 
+Secretariat of the
+Convention on
+Biological Diversity
+Bonn Guidline (Eng.)Cover  22/03/2003  18:03  Page 2
+
+--- Page 2 of 26 ---
+Bonn Guidelines 
+on Access to Genetic Resources 
+and Fair and Equitable Sharing 
+of the Benefits Arising out of 
+their Utilization
+
+--- Page 3 of 26 ---
+Copyright © Secretariat of the Convention on Biological Diversity, 2002
+ISBN: 92-807-2255-7
+This publication may be reproduced for educational or non-profit purposes without
+special permission from the copyright holders, provided acknowledgement of the
+source is made. The Secretariat of the Convention would appreciate receiving a copy of
+any publications that uses this publication as a source.
+For bibliographic and reference purpose this publication should be referred to as:
+Secretariat of the Convention on Biological Diversity (2002). Bonn Guidelines on Access
+to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising out of their
+Utilization. Montreal: Secretariat of the Convention on Biological Diversity.
+For further information, please contact:
+The Secretariat of the Convention on Biological Diversity
+Wo r l d  Trade Centre
+393 St. Jacques, Suite 300
+Montreal, Quebec, Canada H2Y 1N9
+Phone : 1 (514) 288 2220
+Fax: 1 (514) 288 6588
+e-mail: secretariat@biodiv.org
+Website: http://www.biodiv .org
+Printed on recycled paper
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+II
+
+--- Page 4 of 26 ---
+INTRODUCTION
+Biological dive rsity—the variety within and among species and ecosystems—is
+essential for our planet, human well-being and to the livelihood and cultural integrity of
+people. Its gradual loss, as a result of a number of factors, represents a silent emergency
+that threatens to undermine efforts to eradicate poverty and achieve sustainable
+development throughout the world.
+The 1992 Convention on Biological Diversity provides a comprehensive framework for
+stopping that loss. It is a ca refully balanced, leg ally binding international treaty that
+commits its Parties to the triple objective of conserving biological diversity, using
+natural resources sustainably, and fairly and equitably sharing benefits deriving from
+the use of genetic resources.
+The latter objective is of particular importance to developing countries, as they hold
+most of the world’s biological diversity but feel that, in general, they do not obtain a fair
+share of th e benefits derived from the use of their resources for the development of
+products such as high-yielding varieties, pharmaceuticals and cosmetics. Such a system
+reduces th e incentive for the world’s biologically richer but economically poorer
+countries to conserve and su stainably use their resources for the ultimate benefit of
+everyone on Earth.
+Article 15 of the Convention addresses the terms and conditions for access to genetic
+resources and benefit-sharing. It recognizes the sovereignty of States over their natural
+resources and provides that access to these resources shall be subject to the prior
+informed consent of the Contracting Party providing such resources. It also provides
+that access shall be based on mutually agreed terms in order to ensure the sharing of
+benefits arising from the commercial or other utilization of these genetic resources with
+the Contracting Party providing such resources.
+Although the Convention on Biological Diversity was adopted in 1992 and entered into
+force at the end of 1993, it was not until 1999 that work began in earnest to
+operationalize these provisions. The result is the Bonn Guidelines on Access to Genetic
+Resources and the Fair and Equitable Sharing of Benefits Arising Out of Their
+Utilization, so named because of the location of the intergovernmental meeting in
+October 2001 that prepared the first draft, which was eventually adopted, with some
+changes, by the Conference of the Parties to the Convention at its sixth meeting, held in
+The Hague in April 2002.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+III
+
+--- Page 5 of 26 ---
+The Guidelines are expected to assist Parties, Governments and other stakeholders in
+developing overall access an d benefit-sharing strategies, and in identifying the steps
+involved in the process of obtaining access to genetic resources and benefit-sharing.
+More specifically, the guidelines are intended to help them when establishing legislative,
+administrative or policy measures on access and benefit-sharing and/or when
+negotiating contractual arrangements for access and benefit-sharing. A programme for
+capacity-building is already under way to ensure that developing countries are in a
+position to effectively implement the Guidelines and the corresponding provisions of
+the Convention.
+The Guidelines identify the steps in the access and benefit-sharing process, with 
+an emphasis on the obligation for users to seek the prior informed consent of providers.
+They also identify the basic requirements for mutually agreed terms and define the
+main roles and responsibilities of users and providers and stress the importance of the
+involvement of all stakeholders. They also cover other elements such as incentives,
+accountability, means for verification and dispute settlement. Finally, they enumerate
+suggested elem ents for inclusion in material transfer agreements and provide an
+indicative list of both monetary and non-monetary benefits.
+Although they are not legally binding, the fact that the Guidelines were adopted
+unanimously by some 180 countries gives them a clear and indisputable authority and
+provides welcome evidence of an international will to tackle difficult issues that require
+a balance and compromise on all sides for the common good.
+This will was reinforced by the call of the W orld Summit on Sustainable Development,
+held in Johannesburg in August/September 2002, for countries to negotiate, within the
+framework of th e Convention on Biological Dive rsity, an international regime to
+promote and safeguard the fair and equitable sharing of benefits arising out of the
+utilization of genetic resources. It is expected that the Bonn Guidelines will form part of
+that broader framework and will serve as a vital tool for the full implementation of the
+Convention and the safeguarding of the natural wealth on which all human societies
+depend.
+Hamdallah Zedan
+Executive Secretary
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+IV
+
+--- Page 6 of 26 ---
+I. GENERAL PROVISIONS
+A. Key features
+1. These Guidelines may serve as inputs when developing and drafting
+legislative, administrative or policy measures on access and benefit-sharing with
+particular reference to provisions under Articles 8(j), 10 (c), 15, 16 and 19; and
+contracts and other arrangements under mutually agreed terms for access and 
+benefit-sharing.
+2. Nothing in these Guidelines shall be construed as changing the rights and
+obligations of Parties under the Convention on Biological Diversity.
+3. Nothing in these Guidelines is intended to substitute for relevant national
+legislation.
+4. Nothing in these Guidelines should be interpreted to affect the sovereign
+rights of States over their natural resources;
+5. Nothing in these Guidelines, including the use of terms such as “provider”,
+“user”, and “stakeholder”, should be interpreted to assign any rights over genetic
+resources beyond those provided in accordance with the Convention;
+6. Nothing in these Guidelines should be interpreted as affecting the rights and
+obligations relating to genetic resources arising out of the mutually agreed terms under
+which the resources were obtained from the country of origin.
+7. The present Guidelines are voluntary and were prepared with a view to
+ensuring their:
+(a) Vo l u n t a r y  n a t u r e :they are intended to guide both users and providers 
+of genetic resources on a voluntary basis;
+(b) Ease of use: to maximize their utility and to accommodate a range of
+applications, the Guidelines are simple;
+(c) Practicality: the elements contained in the guidelines are practical and
+are aimed at reducing transaction costs;
+(d) Acceptability: the Guidelines are intended to gain the support of users
+and providers;
+(e) Complementarity:t h e  G u i delines and other international instruments
+are mutually supportive;
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+1
+
+--- Page 7 of 26 ---
+(f) Evolutionary approach:t h e  G u i delines are intended to be reviewed and
+accordingly revised and improved as experience is gained in access and
+benefit-sharing;
+(g) Flexibility:t o  b e  u s e f u l  a c r oss a range of sectors, users and national
+circumstances and jurisdictions, guidelines should be flexible;
+(h) Tran sparency:t h e y  a r e  i n t e n d e d  t o  p r o mote transparency in the
+negotiation and implementation of access and benefit-sharing
+arrangements.
+B. Use of terms
+8. The terms as defined in Article 2 of the Convention shall apply to these
+Guidelines. These include: biological diversity, biological resources, biotechnology,
+country of origin of genetic resources, country providing genetic resources,ex situ
+conservation,in situ conservation, genetic material, genetic resources, and in situ
+conditions.
+C. Scope
+9. All genetic resources and associated traditional knowledge, innovations and
+practices covered by the Convention on Biological Diversity and benefits arising from
+the commercial and other utilization of such resources should be covered by the
+guidelines, with the exclusion of human genetic resources.
+D. Relationship with relevant international regimes
+10. The guidelines should be applied in a manner that is coherent and mutually
+supportive of the work of relevant international agreements and institutions. The
+guidelines are without prejudice to the access and benefit-sharing provisions of the FAO
+International Treaty for Plant Genetic Resources for Food and Agriculture.Furthermore,
+the work of the W orld Intellectual Property Organization (WIPO) on issues of relevance
+to access and benefit-sharing should be taken into account. The application of the
+guidelines should also take into account existing regional legislation and agreements on
+access and benefit-sharing.
+E. Objectives
+11. The objectives of the Guidelines are the following:
+(a) T o contribute to the conservation and sustainable use of biological
+diversity;
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+2
+
+--- Page 8 of 26 ---
+(b) T o provide Parties and stakeholders with a transparent framework to
+facilitate access to genetic resources and ensure fair and equitable
+sharing of benefits;
+(c) T o provide guidance to Parties in the development of access and benefit-
+sharing regimes;
+(d) T o inform the practices and approaches of stakeholders (users and
+providers) in access and benefit-sharing arrangements;
+(e) T o provide capacity-building to guarantee the effective negotiation and
+implementation of access and benefit-sharing arrangements, especially
+to developing countries,in particular least developed countries and small
+island developing States among them;
+(f) T o promote awareness on implementation of relevant provisions of the
+Convention on Biological Diversity;
+(g) T o promote the adequate and effective transfer of appropriate technology
+to providing Parties, especially developing countries, in particular least
+developed countries and small island developing States among them,
+stakeholders and indigenous and local communities;
+(h) T o promote the provision of necessary financial resources to providing
+countries that are developing countries, in particular least developed
+countries and small island developing States among them, or countries
+with economies in transition with a view to contributing to the
+achievement of the objectives mentioned above;
+(i) T o strengthen the clearing-house mechanism as a mechanism for
+cooperation among Parties in access and benefit-sharing;
+(j) T o contribute to the development by Parties of mechanisms and access
+and benefit-sharing regimes that recognize the protection of traditional
+knowledge, innovations and practices of indigenous and local
+communities, in accordance with domestic laws and relevant
+international instruments;
+(k) T o contribute to poverty alleviation and be supportive to the realization
+of human food security, health and cultural integrity, especially in
+developing countries, in particular least developed countries and small
+island developing States among them;
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+3
+
+--- Page 9 of 26 ---
+(l) T axonomic research, as specified in the Global T axonomy Initiative,
+should not be prevented,and providers should facilitate acquisition of
+material for systematic use and users should make available all
+information associated with the specimens thus obtained.
+12. The Guidelines are intended to assist Parties in developing an overall access
+and benefit-sharing strategy, which may be part of their national biodiversity strategy
+and action plan, and in identifying the steps involved in the process of obtaining access
+to genetic resources and sharing benefits.
+II. ROLES AND RESPONSIBILITIES IN ACCESS AND 
+BENEFIT-SHARING PURSUANT TO ARTICLE 15 OF THE
+CONVENTION ON BIOLOGICAL DIVERSITY 
+A. National focal point
+13. Each Party should designate one national focal point for access and benefit-
+sharing and make such information available through the clearing-house mechanism.
+The national focal point should inform applicants for access to genetic resources on
+procedures for acquiring prior informed consent and mutually agreed terms, including
+benefit-sharing, and on competent national authorities, relevant indigenous and local
+communities and relevant stakeholders, through the clearing-house mechanism.
+B. Competent national authority(ies)
+14. Competent national authorities, where they are established, may,
+in accordance with applicable national legislative, administrative or policy measures,
+be responsible for granting access and be responsible for advising on:
+(a) The negotiating process;
+(b) Requirements for obtaining prior informed consent and entering into
+mutually agreed terms;
+(c) Monitoring and evaluation of access and benefit-sharing agreements;
+(d) Implementation/enforcement of access and benefit-sharing agreements;
+(e) Processing of applications and approval of agreements;
+(f) The conservation and sustainable use of the genetic resources accessed;
+(g) Mechanisms for the effective participation of different stakeholders,
+as appropriate for the different steps in the process of access and benefit-
+sharing, in particular, indigenous and local communities;
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+4
+
+--- Page 10 of 26 ---
+(h) Mechanisms for the effective participation of indigenous and local
+communities while promoting the objective of having decisions and
+processes available in a language understandable to relevant indigenous
+and local communities.
+15. The competent national authority(ies) that have the legal power to grant prior
+informed consent may delegate this power to other entities, as appropriate.
+C. Responsibilities
+16. Recognizing that Parties and stakeholders may be both users and providers,
+the following balanced list of roles and responsibilities provides key elements to be
+acted upon:
+(a) Contracting Parties which are countries of origin of genetic resources, or
+other Parties which have acquired the genetic resources in accordance
+with the Convention, should:
+(i) Be encouraged to review their policy, administrative and legislative
+measures to ensure they are fully complying with Article 15 of the
+Convention;
+(ii) Be encouraged to report on access applications through the
+clearing-house mechanism and other reporting channels of the
+Convention;
+(iii) Seek to ensure that the commercialization and any other use of
+genetic resources should not prevent traditional use of genetic
+resources;
+(iv) Ensure that they fulfil their roles and responsibilities in a clear,
+objective and transparent manner;
+(v) Ensure that all stakeholders take into consideration the
+environmental consequences of the access activities;
+(vi) Establish mechanisms to ensure that their decisions are made
+available to relevant indigenous and local communities and relevant
+stakeholders, particularly indigenous and local communities;
+(vii) Support measures, as appropriate, to enhance indigenous and local
+communities’capacity to represent their interests fully at
+negotiations;
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+5
+
+--- Page 11 of 26 ---
+(b) In the implementation of mutually agreed terms, users should:
+(i) Seek informed consent prior to  access to genetic resources,
+in conformity with Article 15, paragraph 5, of the Convention;
+(ii) Respect customs, traditions, values and customary practices 
+of indigenous and local communities,
+(iii) Respond to requests for information from indigenous and 
+local communities;
+(iv) Only use genetic resources for purposes consistent with the terms
+and conditions under which they were acquired;
+(v) Ensure that uses of genetic resources for purposes other than those
+for which they were acquired, only take place after new prior
+informed consent and mutually agreed terms are given;
+(vi) Maintain all relevant data regarding the genetic resources,
+especially documentary evidence of the prior informed consent and
+information concerning the origin and the use of genetic resources
+and the benefits arising from such use;
+(vii) As much as possible endeavour to carry out their use of the genetic
+resources in, and with the participation of, the providing country;
+(viii) When supplying genetic resources to third parties, honour any
+terms and conditions regarding the acquired material. They should
+provide this third party with relevant data on their acquisition,
+including prior informed consent and conditions of use and record
+and maintain data on their supply to third parties. Special terms
+and conditions should be established under mutually agreed terms
+to facilitate taxonomic research for non-commercial purposes;
+(ix) Ensure the fair and equitable sharing of benefits, including
+technology transfer to providing countries, pursuant to Article 16 of
+the Convention arising from the commercialization or other use of
+genetic resources, in conformity with the mutually agreed terms
+they established with the indigenous and local communities or
+stakeholders involved;
+(c) Providers should:
+(i) Only supply genetic resources and/or traditional knowledge when
+they are entitled to do so;
+(ii) Strive to avoid imposition of arbitrary restrictions on access to
+genetic resources.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+6
+
+--- Page 12 of 26 ---
+(d) Contracting Parties with users of genetic resources under their
+jurisdiction should take appropriate legal, administrative, or policy
+measures, as appropriate, to support compliance with prior informed
+consent of the Contracting Party providing such resources and mutually
+agreed terms on which access was granted. These countries could
+consider,inter alia,t h e  f o l l o wi n g  m e a s u r e s :
+(i) Mechanisms to provide information to potential users on their
+obligations regarding access to genetic resources;
+(ii) Measures to encourage the disclosure of the country of origin of the
+genetic resources and of the origin of traditional knowledge,
+innovations and practices of indigenous and local communities 
+in applications for intellectual property rights;
+(iii) Measures aimed at preventing the use of genetic resources obtained
+without the prior informed consent of the Contracting Party
+providing such resources;
+(iv) Cooperation between Contracting Parties to address alleged
+infringements of access and benefit-sharing agreements;
+(v) V oluntary certification schemes for institutions abiding by rules on
+access and benefit-sharing;
+(vi) Measures discouraging unfair trade practices;
+(vii) Other measures that encourage users to comply with provisions
+under subparagraph 16 (b) above.
+III. PARTICIPATION OF STAKEHOLDERS
+17. Involvement of relevant stakeholders is essential to ensure the adequate
+development and implementation of access and benefit-sharing arrangements.
+However, due to the diversity of stakeholders and their diverging interests, their
+appropriate involvement can only be determined on a case-by-case basis.
+18. Relevant stakeholders should be consulted and their views taken into
+consideration in each step of the process, including:
+(a) When determining access, negotiating and implementing mutually
+agreed terms, and in the sharing of benefits;
+(b) In the development of a national strategy, policies or regimes on access
+and benefit-sharing.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+7
+
+--- Page 13 of 26 ---
+19. T o facilitate the involvement of relevant stakeholders, including indigenous
+and local communities, appropriate consultative arrangements, such as national
+consultative committees, comprising relevant stakeholder representatives, should 
+be made.
+20. The involvement of relevant stakeholders should be promoted by:
+(a) Providing information, especially regarding scientific and legal advice,
+in order for them to be able to participate effectively;
+(b) Providing support for capacity-building, in order for them to be actively
+engaged in various stages of access and benefit-sharing arrangements,
+such as in the development and implementation of mutually agreed
+terms and contractual arrangements.
+21. The stakeholders involved in access to genetic resources and benefit-sharing
+may wish to seek the support of a mediator or facilitator when negotiating mutually
+agreed terms.
+IV. STEPS IN THE ACCESS AND 
+BENEFIT-SHARING PROCESS
+A. Overall strategy
+22. Access and benefit-sharing systems should be based on an overall access and
+benefit-sharing strategy at the country or regional level. This access and benefit-sharing
+strategy should aim at the conservation and sustainable use of biological diversity, and
+may be part of a national biodiversity strategy and action plan and promote the
+equitable sharing of benefits.
+B. Identification of steps
+23. The steps involved in the process of obtaining access to genetic resources and
+sharing of benefits may include activities prior to access, research and development
+conducted on the genetic resources, as well as their commercialization and other uses,
+including benefit-sharing.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+8
+
+--- Page 14 of 26 ---
+C. Prior informed consent
+24. As provided for in Article 15 of the Convention on Biological Diversity, which
+recognizes the sovereign rights of States over their natural resources, each Contracting
+Party to the Convention shall endeavour to create conditions to facilitate access to
+genetic resources for environmentally sound uses by other Contracting Parties and fair
+and equitable sharing of benefits arising from such uses. In accordance with Article 15,
+paragraph 5, of the Convention on Biological Diversity, access to genetic resources shall
+be subject to prior informed consent ofthe contracting Party providing such resources,
+unless otherwise determined by that Party .
+25. Against this background, the Guidelines are intended to assist Parties in the
+establishment of a system of prior informed consent, in accordance with Article 15,
+paragraph 5, of the Convention.
+1. Basic principles of a prior informed consent system
+26. The basic principles of a prior informed consent system should include:
+(a) Legal certainty and clarity;
+(b) Access to genetic resources should be facilitated at minimum cost;
+(c) Restrictions on access to genetic resources should be transparent, based
+on legal grounds, and not run counter to the objectives of the Convention;
+(d) Consent of the relevant competent national authority(ies) in the provider
+country. The consent of relevant stakeholders, such as indigenous and
+local communities, as appropriate to the circumstances and subject to
+domestic law, should also be obtained.
+2. Elements of a prior informed consent system
+27. Elements of a prior informed consent system may include:
+(a) Competent authority(ies) granting or providing for evidence of prior
+informed consent;
+(b) Timing and deadlines;
+(c) Specification of use;
+(d) Procedures for obtaining prior informed consent;
+(e) Mechanism for consultation of relevant stakeholders;
+(f) Process.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+9
+
+--- Page 15 of 26 ---
+Competent authority(ies) granting prior informed consent
+28. Prior informed consent for access to in situ genetic resources shall  be
+obtained from the Contracting Party providing such resources, through  its competent
+national authority(ies), unless otherwise determined by  that Party.
+29. In accordance with national legislation, prior informed consent may be
+required from different levels of Government. Requirements for obtaining prior
+informed consent (national/provincial/local) in the provider country should therefore
+be specified.
+30. National procedures should facilitate the involvement of all relevant
+stakeholders from the community to the government level, aiming at simplicity and
+clarity.
+31. Respecting established legal rights of indigenous and local communities
+associated with the genetic resources being accessed or where traditional knowledge
+associated with these genetic resources is being accessed, the prior informed consent of
+indigenous and local communities and the approval and involvement of the holders of
+traditional knowledge, innovations and practices should be obtained, in accordance
+with their traditional practices, national access policies and subject to domestic laws.
+32. For ex situ collections, prior informed consent should be obtained from the
+competent national authority(ies) and/or the body governing the ex situ collection
+concerned as appropriate.
+Timing and deadlines
+33. Prior informed consent is to be sought adequately in advance to be
+meaningful both for those seeking and for those granting access. Decisions  on
+applications for access to genetic resources should also be taken within  a reasonable
+period of time.
+Specification of use
+34. Prior informed consent should be based on the specific uses for which consent
+has been granted.While prior informed consent may be granted initially for specific
+use(s), any change of use including transfer to third parties may require a new
+application for prior informed consent. Permitted uses should be clearly stipulated and
+further prior informed consent for changes or unforeseen uses should be required.
+Specific needs of taxonomic and systematic research as specified by the Global
+Ta xo n o m y  I n i t i a t i ve  s h o u l d  be taken into consideration.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+10
+
+--- Page 16 of 26 ---
+35. Prior informed consent is linked to the requirement of mutually agreed terms.
+Procedures for obtaining prior informed consent
+36. An application for access could require the following information to be
+provided, in order for the competent authority to determine whether or not access to a
+genetic resource should be granted. This list is indicative and should be adapted to
+national circumstances:
+(a) Legal entity and affiliation of the applicant and/or collector and contact
+person when the applicant is an institution;
+(b) T ype and quantity of genetic resources to which access is sought;
+(c) Starting date and duration of the activity;
+(d) Geographical prospecting area;
+(e) Evaluation of how the access activity may impact on conservation and
+sustainable use of biodiversity, to determine the relative costs and
+benefits of granting access;
+(f) Accurate information regarding intended use (e.g.: taxonomy, collection,
+research, commercialization);
+(g) Identification of where the research and development will take place;
+(h) Information on how the research and development is to be carried out;
+(i) Identification of local bodies for collaboration in research and
+development;
+(j) Possible third party involvement;
+(k) Purpose of the collection, research and expected results;
+(l) Kinds/types of benefits that could come from obtaining access to the
+resource, including benefits from derivatives and products arising from
+the commercial and other utilization of the genetic resource;
+(m) Indication of benefit-sharing arrangements;
+(n) Budget;
+(o) T reatment of confidential information.
+37. Permission to access genetic resources does not necessarily imply permission
+to use associated knowledge and vice versa.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+11
+
+--- Page 17 of 26 ---
+Process
+38. Applications for access to genetic resources through prior informed consent
+and decisions by the competent authority(ies) to grant access to genetic resources or not
+shall be documented in written form.
+39. The competent authority could grant access by issuing a permit or licence or
+following other appropriate procedures.A national registration system could be used 
+to record the issuance of all permits or licences, on the basis of duly completed
+application forms.
+40. The procedures for obtaining an access permit/licence should be transparent
+and accessible by any interested party.
+D. Mutually agreed terms
+41. In accordance with Article 15, paragraph 7, of the Convention on Biological
+Diversity, each Contracting Party shall “take legislative, administrative or policy
+measures, as appropriate (...) with the aim of sharing in a fair and equitable way the
+results of research and development and the benefits arising from the commercial and
+other utilization of genetic resources with the Contracting Party providing such
+resources. Such sharing shall be upon mutually agreed terms”. Thus, guidelines should
+assist Parties and stakeholders in the development of mutually agreed terms to ensure
+the fair and equitable sharing of benefits.
+1. Basic requirements for mutually agreed terms
+42. The following principles or basic requirements could be considered for the
+development of mutually agreed terms:
+(a) Legal certainty and clarity;
+(b) Minimization of transaction costs, by, for example:
+(i) Establishing and promoting awareness of the Government’s and
+relevant stakeholders’ requirements for prior informed consent and
+contractual arrangements;
+(ii) Ensuring awareness of existing mechanisms for applying for access,
+entering into arrangements and ensuring the sharing of benefits;
+(iii) Developing framework agreements, under which repeat access
+under expedited arrangements can be made;
+(iv) Developing standardized material transfer agreements and benefit-
+sharing arrangements for similar resources and similar uses (see
+appendix I for suggested elements of such an agreement);
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+12
+
+--- Page 18 of 26 ---
+(c) Inclusion of provisions on user and provider obligations;
+(d) Development of different contractual arrangements for different
+resources and for different uses and development of model agreements;
+(e) Different uses may include, inter alia, taxonomy, collection, research,
+commercialization;
+(f) Mutually agreed terms should be negotiated efficiently and within 
+a reasonable period of time;
+(g) Mutually agreed terms should be set out in a written agreement.
+43. The following elements could be considered as guiding parameters in
+contractual agreements. These elements could also be considered as basic requirements
+for mutually agreed terms:
+(a) Regulating the use of resources in order to take into account ethical
+concerns of the particular Parties and stakeholders, in particular
+indigenous and local communities concerned;
+(b) Making provision to ensure the continued customary use of genetic
+resources and related knowledge;
+(c) Provision for the use of intellectual property rights include joint research,
+obligation to implement rights on inventions obtained and to provide
+licences by common consent;
+(d) The possibility of joint ownership of intellectual property rights
+according to the degree of contribution.
+2. Indicative list of typical mutually agreed terms
+44. The following provides an indicative list of typical mutually agreed terms:
+(a) T ype and quantity of genetic resources, and the geographical/ecological
+area of activity;
+(b) Any limitations on the possible use of the material;
+(c) Recognition of the sovereign rights of the country of origin;
+(d) Capacity-building in various areas to be identified in the agreement;
+(e) A clause on whether the terms of the agreement in certain circumstances
+(e.g. change of use) can be renegotiated;
+(f) Whether the genetic resources can be transferred to third parties and
+conditions to be imposed in such cases, e.g. whether or not to pass
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+13
+
+--- Page 19 of 26 ---
+genetic resources to third parties without ensuring that the third parties
+enter into similar agreements except for taxonomic and systematic
+research that is not related to commercialization;
+(g) Whether the knowledge, innovations and practices of indigenous and
+local communities have been respected, preserved and maintained, and
+whether the customary use of biological resources in accordance with
+traditional practices has been protected and encouraged;
+(h) T reatment of confidential information;
+(i) Provisions regarding the sharing of benefits arising from the commercial
+and other utilization of genetic resources and their derivatives and
+products.
+3. Benefit-sharing
+45. Mutually agreed terms could cover the conditions, obligations, procedures,
+types,ti ming, distribution and mechanisms of benefits to be shared. These will vary
+depending on what is regarded as fair and equitable in light of the circumstances.
+Ty pes ofbenefits
+46. Examples of monetary and non-monetary benefits are provided in appendix
+II to these Guidelines.
+Timing of benefits
+47. Near-term, medium-term and long-term benefits should be considered,
+including up-front payments, milestone payments and royalties. The time-frame 
+of benefit-sharing should be definitely stipulated. Furthermore, the balance among
+near-term, medium-term and long-term benefit should be considered on a 
+case-by-case basis.
+Distribution of benefits
+48. Pursuant to mutually agreed terms established following prior informed
+consent, benefits should be shared fairly and equitably with all those who have been
+identified as having contributed to the resource management, scientific and/or
+commercial process. The latter may include governmental, non-governmental or
+academic institutions and indigenous and local communities. Benefits should be
+directed in such a way as to promote conservation and sustainable use of biological
+diversity.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+14
+
+--- Page 20 of 26 ---
+Mechanisms for benefit-sharing
+49. Mechanisms for benefit-sharing may vary depending upon the type of
+benefits, the specific conditions in the country and the stakeholders involved. The
+benefit-sharing mechanism should be flexible as it should be determined by the
+partners involved in benefit-sharing and will vary on a case-by-case basis.
+50. Mechanisms for sharing benefits should include full cooperation in scientific
+research and technology development, as well as those that derive from commercial
+products including trust funds, joint ventures and licences with preferential terms.
+V. OTHER PROVISIONS
+A. Incentives
+51. The following incentive measures exemplify measures which could 
+be used in the implementation of the guidelines:
+(a) The identifica tion and mitigation or removal of perverse incentives, that
+may act as obstacles for conservation and sustainable use of biological
+diversity through access and benefit-sharing, should be considered;
+(b) The use of well-designed economic and regulatory instruments, directly
+or indirectly related to access and benefit-sharing, should be considered
+to foster equitable and efficient allocation of benefits;
+(c) The use of valuation methods should be considered as a tool to inform
+users and providers involved in access and benefit-sharing;
+(d) The creation and use of markets should be considered as a way of
+efficiently achieving conservation and sustainable use of biological
+diversity.
+B. Accountability in implementing access and 
+benefit-sharing arrangements
+52. Parties should endeavour to establish mechanisms to promote accountability
+by all stakeholders involved in access and benefit-sharing arrangements.
+53. T o promote accountability, Parties may consider establishing requirements
+regarding:
+(a) Reporting; and
+(b) Disclosure of information.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+15
+
+--- Page 21 of 26 ---
+54. The individual collector or institution on whose behalf the collector 
+is operating should, where appropriate, be responsible and accountable for the
+compliance of the collector.
+C. National monitoring and reporting
+55. Depending on the terms of access and benefit-sharing, national monitoring
+may include:
+(a) Whether the use of genetic resources is in compliance with the terms 
+of access and benefit-sharing;
+(b) Research and development process;
+(c) Applications for intellectual property rights relating to the material
+supplied.
+56. The involvement of relevant stakeholders, in particular, indigenous and local
+communities, in the various stages of development and implementation of access and
+benefit-sharing arrangements can play an important role in facilitating the monitoring
+of compliance.
+D. Means for verification
+57. V oluntary verification mechanisms could be developed at the national level to
+ensure compliance with the access and benefit-sharing provisions of the Convention on
+Biological Diversity and national legal instruments of the country of origin providing
+the genetic resources.
+58. A system of voluntary certification could serve as a means to verify the
+transparency of the process of access and benefit-sharing. Such a system could certify
+that the access and benefit-sharing provisions of the Convention on Biological Diversity
+have been complied with.
+E. Settlement of disputes
+59. As most obligations arising under mutually agreed arrangements will be
+between providers and users, disputes arising in these arrangements should be solved
+in accordance with the relevant contractual arrangements on access and benefit-
+sharing and the applicable law and practices.
+60. In cases where the access and benefit-sharing agreements consistent with the
+Convention on Biological Diversity and national legal instruments of the country of
+origin of genetic resources have not been complied with, the use of sanctions could be
+considered, such as penalty fees set out in contractual agreements.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+16
+
+--- Page 22 of 26 ---
+F. Re m e di e s  
+61. Parties may take appropriate effective and proportionate measures for
+violations of national legislative, administrative or policy measures implementing the
+access and benefit-sharing provisions of the Convention on Biological Diversity,
+including requirements related to prior informed consent and mutually agreed terms.
+Appendix I
+SUGGESTED ELEMENTS FOR MATERIAL
+TRANSFER AGREEMENTS
+Material transfer agreements may contain wording on the following elements:
+A. Introductory provisions
+1. Preambular reference to the Convention on Biological Diversity 
+2. Legal status of the provider and user of genetic resources
+3. Mandate and/or general objectives of provider and, where appropriate, user 
+of genetic resources
+B. Access and benefit-sharing provisions
+1. Description of genetic resources covered by the material transfer agreements,
+including accompanying information
+2. Permitted uses, bearing in mind the potential uses, of the genetic resources,
+their products or derivatives under the material transfer agreement 
+(e.g. research, breeding, commercialization) 
+3. Statement that any change of use would require new prior informed consent
+and material transfer agreement
+4. Whether intellectual property rights may be sought and if so under 
+what conditions 
+5. T erms of benefit-sharing arrangements, including commitment to share
+monetary and non-monetary benefits 
+6. No warranties guaranteed by provider on identity and/or quality of the
+provided material
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+17
+
+--- Page 23 of 26 ---
+7. Whether the genetic resources and/or accompanying information may be
+transferred to third parties and ifso conditions that should apply 
+8. Definitions
+9. Duty to minimize environmental impacts of collecting activities
+C. Legal provisions
+1. Obligation to comply with the material transfer agreement
+2. Duration of agreement
+3. Notice to terminate the agreement
+4. Fact that the obligations in certain clauses survive the termination 
+of the agreement
+5. Independent enforceability of individual clauses in the agreement
+6. Events limiting the liability of either party (such as act of God, fire, flood, etc.)
+7. Dispute settlement arrangements
+8. Assignment or transfer of rights
+9. Assignment, transfer or exclusion of the right to claim any property rights,
+including intellectual property rights, over the genetic resources received
+through the material transfer agreement
+10. Choice of law
+11. Confidentiality clause
+12. Guarantee
+Appendix II 
+MONETARY AND NON- MONETARY BENEFITS 
+1. Monetary benefits may include, but not be limited to:
+(a) Access fees/fee per sample collected or otherwise acquired;
+(b) Up-front payments;
+(c) Milestone payments;
+(d) Payment of royalties;
+(e) Licence fees in case of commercialization;
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+18
+
+--- Page 24 of 26 ---
+(f) Special fees to be paid to trust funds supporting conservation and
+sustainable use of biodiversity;
+(g) Salaries and preferential terms where mutually agreed;
+(h) Research funding;
+(i) Joint ventures;
+(j) Joint ownership of relevant intellectual property rights.
+2. Non-monetary benefits may include, but not be limited to:
+(a) Sharing of research and development results;
+(b) Collaboration, cooperation and contribution in scientific research
+and development programmes, particularly biotechnological
+research activities, where possible in the provider country;
+(c) Participation in product development;
+(d) Collaboration, cooperation and contribution in education 
+and training;
+(e) Admittance to ex situ facilities of genetic resources and 
+to databases;
+(f) T ransfer to the provider of the genetic resources of knowledge and
+technology under fair and most favourable terms, including on
+concessional and preferential terms where agreed, in particular,
+knowledge and technology that make use of genetic resources,
+including biotechnology, or that are relevant to the conservation 
+and sustainable utilization of biological diversity;
+(g) Strengthening capacities for technology transfer to user developing
+country Parties and to Parties that are countries with economies 
+in transition and technology development in the country of origin
+that provides genetic resources.Also to facilitate abilities of
+indigenous and local communities to conserve and sustainably 
+use their genetic resources;
+(h) Institutional capacity-building;
+(i) Human and material resources to strengthen the capacities for the
+administration and enforcement of access regulations;
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+19
+
+--- Page 25 of 26 ---
+(j) T raining related to genetic resources with the full participation of
+providing Parties, and where possible, in such Parties;
+(k) Access to scientific information relevant to conservation and
+sustainable use of biological diversity, including biological
+inventories and taxonomic studies;
+(l) Contributions to the local economy;
+(m) Research directed towards priority needs, such as health and food
+security, taking into account domestic uses of genetic resources in
+provider countries;
+(n) Institutional and professional relationships that can arise from an
+access and benefit-sharing agreement and subsequent collaborative
+activities;
+(o) Food and li velihood security benefits;
+(p) Social recognition;
+(q) Joint ownership of relevant intellectual property rights.
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Benefits Arising Out of Their Utilization 
+20
+
+--- Page 26 of 26 ---
+Bonn Guidline (Eng.)Cover  22/03/2003  18:03  Page 1

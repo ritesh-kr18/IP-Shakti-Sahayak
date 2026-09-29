@@ -1,0 +1,26 @@
+[
+  {
+    "title": "WIPO Overview on Traditional Knowledge Digital Library (TKDL)",
+    "filename": "WIPO_TKDL_Overview_and_Biopiracy_Defense.pdf",
+    "description": "Comprehensive documentation of CSIR Traditional Knowledge Digital Library (TKDL) cases preventing misappropriation at EPO, USPTO, JPO, and CIPO.",
+    "source": "WIPO / CSIR",
+    "source_urls": [
+      "https://www.wipo.int/export/sites/www/tk/en/resources/pdf/tkdl.pdf",
+      "https://www.wipo.int/edocs/pubdocs/en/wipo_pub_tk_1.pdf"
+    ],
+    "status": "failed",
+    "error": "Failed to download after trying 2 source URL(s)"
+  },
+  {
+    "title": "Traditional Knowledge Resource Classification (TKRC) Overview",
+    "filename": "TKRC_Classification_Structure_CSIR.pdf",
+    "description": "Structured classification system mapping ancient Ayurvedic, Unani, and Siddha texts to International Patent Classification (IPC).",
+    "source": "CSIR-TKDL / WIPO",
+    "source_urls": [
+      "https://www.wipo.int/export/sites/www/tk/en/resources/pdf/tkrc.pdf",
+      "https://www.tkdl.res.in"
+    ],
+    "status": "failed",
+    "error": "Failed to download after trying 2 source URL(s)"
+  }
+]

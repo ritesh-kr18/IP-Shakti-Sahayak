@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Turmeric Patent Revocation Dossier (USPTO Patent 5,401,504 - Use of Turmeric in Wound Healing)",
+    "filename": "Turmeric_Patent_Revocation_Case_Study_USPTO_5401504.html",
+    "description": "Landmark bio-piracy case where CSIR successfully challenged and revoked the US patent granted to University of Mississippi Medical Center based on ancient Sanskrit texts.",
+    "source": "USPTO / CSIR",
+    "source_urls": [
+      "https://patents.google.com/patent/US5401504A/en"
+    ],
+    "file_size_bytes": 179950,
+    "downloaded_at": "2026-09-03T21:13:06.218726",
+    "status": "success"
+  },
+  {
+    "title": "Kani Tribe and Arogyapacha (Jeevani) Benefit Sharing Model",
+    "filename": "Kani_Tribe_Jeevani_Benefit_Sharing_Case_Study.pdf",
+    "description": "First operational Access and Benefit Sharing model in India implemented by TBGRI and the Kani Tribe of Kerala.",
+    "source": "WIPO / CBD Secretariat",
+    "source_urls": [
+      "https://www.wipo.int/export/sites/www/tk/en/resources/pdf/kani_tribe.pdf",
+      "https://www.cbd.int/financial/bensharing/india-kanitribal.pdf"
+    ],
+    "status": "failed",
+    "error": "Failed to download after trying 2 source URL(s)"
+  }
+]

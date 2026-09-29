@@ -1,0 +1,28 @@
+[
+  {
+    "title": "WHO Guidelines on Good Manufacturing Practices (GMP) for Herbal Medicines",
+    "filename": "WHO_GMP_Guidelines_Herbal_Medicines.html",
+    "description": "International and AYUSH referenced benchmark for herbal drug safety, stability testing, and contaminant thresholds.",
+    "source": "World Health Organization (WHO) / AYUSH",
+    "source_urls": [
+      "https://apps.who.int/iris/bitstream/handle/10665/43672/9789241547239_eng.pdf",
+      "https://iris.who.int/bitstream/handle/10665/43672/9789241547239_eng.pdf"
+    ],
+    "file_size_bytes": 755,
+    "downloaded_at": "2026-09-03T21:12:44.938177",
+    "status": "success"
+  },
+  {
+    "title": "WHO General Guidelines for Methodologies on Research and Evaluation of Traditional Medicine",
+    "filename": "WHO_Traditional_Medicine_Evaluation_Guidelines.html",
+    "description": "Guidelines for clinical trial evaluation, safety assessment, and standardized documentation of traditional medicine systems.",
+    "source": "WHO",
+    "source_urls": [
+      "https://apps.who.int/iris/bitstream/handle/10665/66783/WHO_EDM_TRM_2000.1.pdf",
+      "https://iris.who.int/bitstream/handle/10665/66783/WHO_EDM_TRM_2000.1.pdf"
+    ],
+    "file_size_bytes": 755,
+    "downloaded_at": "2026-09-03T21:12:49.869914",
+    "status": "success"
+  }
+]

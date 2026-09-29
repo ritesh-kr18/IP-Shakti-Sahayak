@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Drugs and Cosmetics Rules 1945 - Part XVI (Ayurvedic, Siddha and Unani Drugs)",
+    "filename": "Drugs_Cosmetics_Rules_Part_XVI_ASU.pdf",
+    "description": "Governs licensing, manufacture for sale, loan licenses, and testing of Ayurvedic, Siddha, and Unani formulations.",
+    "source": "CDSCO / Ministry of Health",
+    "source_urls": [
+      "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf"
+    ],
+    "file_size_bytes": 8643659,
+    "downloaded_at": "2026-09-03T21:10:37.626037",
+    "status": "success"
+  },
+  {
+    "title": "Drugs and Cosmetics Rules - Part XVII (Labelling and Packaging of ASU Drugs)",
+    "filename": "Drugs_Cosmetics_Rules_Part_XVII_Labelling_ASU.pdf",
+    "description": "Mandatory labelling rules, expiry dates, batch numbering, and display of ingredients for ASU medicines.",
+    "source": "CDSCO",
+    "source_urls": [
+      "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf"
+    ],
+    "file_size_bytes": 8643659,
+    "downloaded_at": "2026-09-03T21:11:08.388015",
+    "status": "success"
+  }
+]

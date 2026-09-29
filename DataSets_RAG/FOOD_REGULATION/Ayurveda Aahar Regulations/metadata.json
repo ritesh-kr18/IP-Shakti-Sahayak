@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Food Safety and Standards (Ayurveda Aahar) Regulations 2022",
+    "filename": "FSSAI_Ayurveda_Aahar_Regulations_2022.html",
+    "description": "Statutory FSSAI regulations specifying standards, permissible ingredients from authoritative books, logo, and labelling rules for Ayurveda Aahar food products.",
+    "source": "Food Safety and Standards Authority of India (FSSAI)",
+    "source_urls": [
+      "https://www.fssai.gov.in/upload/notifications/2022/05/627a4d5386f5bGazette_Notification_Ayurveda_Aahar_09_05_2022.pdf"
+    ],
+    "file_size_bytes": 3221,
+    "downloaded_at": "2026-09-03T21:12:49.878678",
+    "status": "success"
+  },
+  {
+    "title": "FSSAI Guidance Note & FAQs on Ayurveda Aahar",
+    "filename": "FSSAI_Ayurveda_Aahar_Guidance_Note_FAQs.html",
+    "description": "Official regulatory guidance explaining difference between Ayurveda Aahar and Proprietary Food / ASU drugs.",
+    "source": "FSSAI",
+    "source_urls": [
+      "https://www.fssai.gov.in/upload/uploadfiles/files/Guidance_Notes_Ayurveda_Aahar.pdf"
+    ],
+    "file_size_bytes": 3221,
+    "downloaded_at": "2026-09-03T21:12:49.881327",
+    "status": "success"
+  },
+  {
+    "title": "FSSAI (Health Supplements, Nutraceuticals, Food for Special Dietary Use) Regulations 2022",
+    "filename": "FSSAI_Nutraceuticals_and_Supplements_Regulations_2022.html",
+    "description": "FSSAI standards covering botanicals, plant extracts, prebiotic/probiotics, and dietary supplements.",
+    "source": "FSSAI",
+    "source_urls": [
+      "https://www.fssai.gov.in/upload/notifications/2022/03/62458428383ffGazette_Notification_Nutra_29_03_2022.pdf"
+    ],
+    "file_size_bytes": 3221,
+    "downloaded_at": "2026-09-03T21:12:49.883506",
+    "status": "success"
+  }
+]

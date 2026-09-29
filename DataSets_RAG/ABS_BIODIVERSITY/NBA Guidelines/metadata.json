@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Guidelines on Access to Biological Resources and Associated Knowledge and Benefits Sharing Regulations",
+    "filename": "NBA_ABS_Guidelines_2014_Gazette.html",
+    "description": "Official notification outlining access fee structure, benefit-sharing percentages (0.1% to 5%), and application procedures (Form I to IV).",
+    "source": "National Biodiversity Authority (NBA)",
+    "source_urls": [
+      "http://nbaindia.org/uploaded/pdf/Gazette_Notification_of_ABS_Guidlines.pdf",
+      "http://nbaindia.org/uploaded/pdf/abs_regulations_2014.pdf"
+    ],
+    "file_size_bytes": 62940,
+    "downloaded_at": "2026-09-03T21:10:06.510981",
+    "status": "success"
+  },
+  {
+    "title": "Guidance on IPR Applications involving Biological Resources (Section 6 NBA)",
+    "filename": "NBA_IPR_Section6_Guidance.html",
+    "description": "Standard operating procedure for obtaining NBA prior approval before filing IPRs inside or outside India under Section 6 of BD Act.",
+    "source": "National Biodiversity Authority",
+    "source_urls": [
+      "http://nbaindia.org/uploaded/pdf/ABS_Good_Practices.pdf"
+    ],
+    "file_size_bytes": 62940,
+    "downloaded_at": "2026-09-03T21:10:06.528806",
+    "status": "success"
+  },
+  {
+    "title": "People's Biodiversity Register (PBR) Guidelines (NBA)",
+    "filename": "Peoples_Biodiversity_Register_PBR_Guidelines.html",
+    "description": "Guidelines for documentation of local biological resources and associated traditional knowledge by Biodiversity Management Committees (BMCs).",
+    "source": "National Biodiversity Authority",
+    "source_urls": [
+      "http://nbaindia.org/uploaded/pdf/PBR_Guidelines.pdf",
+      "http://nbaindia.org/uploaded/pdf/pbr_guidelines_revised.pdf"
+    ],
+    "file_size_bytes": 62940,
+    "downloaded_at": "2026-09-03T21:10:06.549076",
+    "status": "success"
+  }
+]

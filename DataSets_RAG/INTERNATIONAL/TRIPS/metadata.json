@@ -1,0 +1,26 @@
+[
+  {
+    "title": "WTO Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)",
+    "filename": "WTO_TRIPS_Agreement_Official_Text.html",
+    "description": "Comprehensive multilateral agreement on intellectual property standards under the World Trade Organization.",
+    "source": "World Trade Organization (WTO)",
+    "source_urls": [
+      "https://www.wto.org/english/docs_e/legal_e/27-trips_01_e.htm"
+    ],
+    "file_size_bytes": 12663,
+    "downloaded_at": "2026-09-03T21:13:14.148475",
+    "status": "success"
+  },
+  {
+    "title": "Declaration on the TRIPS Agreement and Public Health (Doha Declaration 2001)",
+    "filename": "TRIPS_Doha_Declaration_Public_Health_2001.pdf",
+    "description": "Reaffirms flexibilities in TRIPS for public health, compulsory licenses, and parallel importation.",
+    "source": "WTO",
+    "source_urls": [
+      "https://www.wto.org/english/thewto_e/minist_e/min01_e/mindecl_trips_e.pdf"
+    ],
+    "file_size_bytes": 8490,
+    "downloaded_at": "2026-09-03T21:13:14.167892",
+    "status": "success"
+  }
+]

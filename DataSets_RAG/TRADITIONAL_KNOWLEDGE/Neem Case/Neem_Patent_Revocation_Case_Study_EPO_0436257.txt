@@ -1,0 +1,1432 @@
+EP0436257B1 - Method for controlling fungi on plants by the aid of a  hydrophobic extracted neem oil
+- Google Patents
+EP0436257B1 - Method for controlling fungi on plants by the aid of a  hydrophobic extracted neem oil
+- Google Patents
+Method for controlling fungi on plants by the aid of a  hydrophobic extracted neem oil
+Download PDF
+Info
+Publication number
+EP0436257B1
+EP0436257B1
+EP90250319A
+EP90250319A
+EP0436257B1
+EP 0436257 B1
+EP0436257 B1
+EP 0436257B1
+EP 90250319 A
+EP90250319 A
+EP 90250319A
+EP 90250319 A
+EP90250319 A
+EP 90250319A
+EP 0436257 B1
+EP0436257 B1
+EP 0436257B1
+Authority
+EP
+European Patent Office
+Prior art keywords
+neem oil
+neem
+plants
+oil
+fungi
+Prior art date
+1989-12-26
+Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+Revoked
+Application number
+EP90250319A
+Other languages
+German
+(
+de
+)
+French
+(
+fr
+)
+Other versions
+EP0436257A1
+(
+en
+Inventor
+James Charles Locke
+Hiram Gordon Larew Iii
+James Frederic Walter
+Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+Thermo Trilogy Corp
+Original Assignee
+WR Grace and Co Conn
+WR Grace and Co
+US Department of Agriculture USDA
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+1989-12-26
+Filing date
+1990-12-20
+Publication date
+1994-09-14
+Family has litigation
+First worldwide family litigation filed
+litigation
+Critical
+https://patents.darts-ip.com/?family=23814062&utm_source=google_patent&utm_medium=platform_link&utm_campaign=public_patent_search&patent=EP0436257(B1)
+"Global patent litigation dataset” by Darts-ip is licensed under a Creative Commons Attribution 4.0 International License.
+1990-12-20
+Application filed by WR Grace and Co Conn, WR Grace and Co, US Department of Agriculture USDA
+filed
+Critical
+WR Grace and Co Conn
+1991-07-10
+Publication of EP0436257A1
+publication
+Critical
+patent/EP0436257A1/en
+1994-09-14
+Application granted
+granted
+Critical
+1994-09-14
+Publication of EP0436257B1
+publication
+Critical
+patent/EP0436257B1/en
+2010-12-20
+Anticipated expiration
+legal-status
+Critical
+Status
+Revoked
+legal-status
+Critical
+Current
+Links
+Espacenet
+EPO GPI
+EP Register
+Global Dossier
+Discuss
+Classifications
+A
+—
+HUMAN NECESSITIES
+A01
+—
+AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING
+A01N
+—
+PRESERVATION OF BODIES OF HUMANS OR ANIMALS OR PLANTS OR PARTS THEREOF; BIOCIDES, e.g. AS DISINFECTANTS, AS PESTICIDES OR AS HERBICIDES; PEST REPELLANTS OR ATTRACTANTS; PLANT GROWTH REGULATORS
+A01N65/00
+—
+Biocides, pest repellants or attractants, or plant growth regulators containing material from algae, lichens, bryophyta, multi-cellular fungi or plants, or extracts thereof
+A01N65/08
+—
+Magnoliopsida [dicotyledons]
+A01N65/26
+—
+Meliaceae [Chinaberry or Mahogany family], e.g. mahogany, langsat or neem
+Y
+—
+GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS
+Y02
+—
+TECHNOLOGIES OR APPLICATIONS FOR MITIGATION OR ADAPTATION AGAINST CLIMATE CHANGE
+Y02A
+—
+TECHNOLOGIES FOR ADAPTATION TO CLIMATE CHANGE
+Y02A50/00
+—
+TECHNOLOGIES FOR ADAPTATION TO CLIMATE CHANGE in human health protection, e.g. against extreme weather
+Y02A50/30
+—
+Against vector-borne diseases, e.g. mosquito-borne, fly-borne, tick-borne or waterborne diseases whose impact is exacerbated by climate change
+Definitions
+This invention
+relates to a method of controlling fungi on plants with the aid of a foliar fungicide comprising a hydrophobic-solvent extracted neem oil.
+a foliar fungicide
+comprising a hydrophobic-solvent extracted neem oil.
+neem oil pesticides
+exhibit inter alia the ability to prevent fungal growth and kill fungal pests at various life stages.
+neem tree
+a tropical evergreen, has been used for centuries as a source of pesticides to which insects have not developed a resistance.
+Various neem seed extracts
+particularly the ones containing the hydrophilic, tetranortriterpenoid azadirachtin, are known to influence the feeding behavior, metamorphosis (insect growth regulating [IGR] effect), fecundity, and fitness of numerous insect species belonging to various orders.
+neem oil
+containing azadirachtin
+oil presses
+may be mechanically pressed from neem seeds in the cold by using oil presses or may be extracted using alcohols or other solvents using Soxhlet apparatus.
+Small amounts of neem oil
+can be obtained by kneading neem seed powder by hand after adding some water.
+'neem oil'
+has been used to describe a variety of materials containing a mixture of both hydrophilic and hydrophobic extractables.
+the variety of extraction methods and resultant variety in composition of neem oil
+has led to great confusion as to the true properties of "neem oil”. Khan and Wassilew, Proc. 3rd Int.
+Neem oil diluted from its emulsifiable concentrate formulation
+completely inhibited several species of fungi such as Aspergillus niger , Fusarium moniliforme , Macrophomina phaseolina and Drechslera rostrata . However, the specific details of this formulation were not provided.
+neem seed extract
+produced by extraction with hexane.
+the crude hexane extract of the neem seed
+is crystallized from an acetone solution, filtered and freed from solvent under reduced pressure and is reported to have insecticidal properties as repellant, reduction of egg deposition.
+This extract
+may be used in an aqueous emulsion containing 0.2% Tween 20 R as surfactant.
+neem oil extract
+extracted by a non-polar solvent
+foliar fungicide
+is neither disclosed in the state of the art nor is it derivable therefrom although the principle fungicidal effect of neem seed is known from the state of the art (Biological Abstracts, vol. 71, no. 12, 1987, abstract no. 83379).
+the fungicidal activities of hydrophobicly extracted neem oil
+is unique and unexpected in view of the absence of any known active ingredients.
+Another object of this invention
+is to provide a natural pesticide formulation derived from neem seed extracts for the protection of plants from various fungal pests.
+novel pesticide formulations
+derived from seed extracts, said formulations comprising non-polar hydrophobic-solvent extracted neem oil fractions, that are substantially free of azadirachtin and salannin.
+the present invention
+is directed to various pesticide formulations prepared from neem oil which are substantially free of azadirachtin, and yet said formulations possess the ability to control fungal pathogens.
+Neem seeds
+can be quite variable in size, shape and composition. Seeds from around the world can be as small and round as a pea and as large and long as a bean. Neem seeds consist of two parts, a shell that does not contain oil or pesticidal activity and the kernal which contains oil and azadirachtin. However, the composition of seeds collected from throughout the world varies considerably as shown in Table A. In particular we have found that oil derived from neem trees with high azadirachtin concentration is fungicidal.
+the pesticide formulations of this invention
+are prepared from neem oil which has been extracted from, dried, coarsely ground neem seeds with a suitable non-polar, hydrophobic solvent.
+dried neem seeds
+typically containing about 5 to 15% water, are coarsely ground to about 4 mm sieve opening (5 mesh).
+the ground neem seeds
+are then extracted with a non-polar hydrophobic solvent to remove neem oil. It is preferred to use a significant excess of solvent ( 3 to 1 w/w) to obtain good yields.
+the solvent
+must be suitably hydrophobic to prevent excess water from contaminating the product. Water in the extract will cause azadirachtin to be extracted from the seeds and result in hydrolysis of the extract.
+the solvent
+is removed from the extract by low temperature evaporation, preferably by vacuum evaporation to yield the neem oil product.
+Final pesticide formulations
+in accordance with this invention, can be prepared by diluting the neem oil with about 5 to 50% preferably 5 to 20% and most preferably 7 to 15% by volume emulsifying surfactant and may optionally contain 0-1% PABA.
+emulsifying surfactants
+include sorbitan esters, ethoxylated and propoxylated mono and diglycerides, acetylated mono- or diglycerides, lactylated mono- or diglycerides, citric acid esters of mono- or diglycerides, sugar esters, polysorbates, poly-glycerol esters, and the like, and mixtures thereof.
+the preferred emulsifying surfactants
+are the polyoxyethylene derivatives of fatty acid partial esters of sorbital anhydrides which are sold under the name Tween® 20, Tween® 40, Tween® 60 and Tween® 80. Prior to final application, these pesticide formulations are typically diluted with water.
+neem oil
+may also be used at various dilutions to control various pest and disease problems on turf, horticultural and agricultural crops as well as stored fruits and vegetables.
+the neem oil formulations
+have been shown to be effective at controlling fungi such as mildews, rusts, dollar spot, brown patch, black spots, botrytis, and the like.
+Suitable non-polar, hydrophobic solvents for use in extracting the neem oil from the ground neem seeds
+will include those solvents having high neem oil solubility and substantially no azadirachtin or water solubility.
+the preferred non-polar solvents
+include, but are not limited to, aliphatic hydrocarbons and halogenated aliphatic hydrocarbons such as pentane, hexane, heptane, octane, nonane, decane, isooctane, chloropentane, chlorohexane, and the like, and their isomers; petroleum distillates, petroleum ether, and the like; aromatics and substituted aromatics such as benzene, toluene, chlorobenzene, benzaldehyde, xylenes, and the like; and mixtures thereof.
+non-polar solvents
+having the above characteristics are well known to those skilled in the art, and the choice of a particular solvent is not per se critical to the invention, provided that it is substantially azadirachtin-insoluble and neem oil has a high degree of solubility therein.
+the extracted neem oil
+was mixed with water and diluted to 0.25, 0.5, and 1% and sprayed on the fully expanded primary leaves of beans cv. Pinto 111 until run off.
+the leaves
+were then inoculated with bean rust ( Uromyces phaseoli ) spores and placed in a dew chamber to allow infection. After approximately 16 hours the bean plants were removed from the dew chamber and placed in a greenhouse. After seven (7) days the number of rust pustules were counted.
+Table 4
+show that the extracted neem oil is an effective foliar fungicide at these concentrations.
+a solution of 2% extracted neem oil in water
+was sprayed on 5 hydrangias plants growing in greenhouse.
+the treated plants and an equal number of untreated plants
+were exposed to the natural mildew microrganisms found in the greenhouse for 6 weeks. At the end of this period the leaves of the plants were examined for mildew infestion.
+the untreated plants
+had an average of 46% of their leaves infested while the treated plants had 1.7% infestation.
+Landscapes
+Health & Medical Sciences
+(
+AREA
+)
+Life Sciences & Earth Sciences
+(
+AREA
+)
+General Health & Medical Sciences
+(
+AREA
+)
+Natural Medicines & Medicinal Plants
+(
+AREA
+)
+Engineering & Computer Science
+(
+AREA
+)
+Mycology
+(
+AREA
+)
+Biotechnology
+(
+AREA
+)
+Microbiology
+(
+AREA
+)
+Agronomy & Crop Science
+(
+AREA
+)
+Plant Pathology
+(
+AREA
+)
+Dentistry
+(
+AREA
+)
+Wood Science & Technology
+(
+AREA
+)
+Zoology
+(
+AREA
+)
+Environmental Sciences
+(
+AREA
+)
+Agricultural Chemicals And Associated Chemicals
+(
+AREA
+)
+Compounds Of Unknown Constitution
+(
+AREA
+)
+Abstract
+A novel insecticide and foliar fungicide derived from a neem seed extract comprising neem oil which is substantially free of azadirachtin and salannin, said neem oil being prepared by extracting dried, coarsely ground neem seeds with a non-polar, hydrophobic solvent to obtain a neem oil extract, and then removing the solvent to obtain the neem oil. These neem oil pesticides exhibit the ability to repel insects from plant surfaces, prevent fungal growth, and kill insect and fungal pests at various life stages.
+Description
+This invention relates to a method of controlling fungi on plants with the aid of a foliar fungicide comprising a hydrophobic-solvent extracted neem oil. These neem oil pesticides exhibit inter alia the ability to prevent fungal growth and kill fungal pests at various life stages.
+Description of Prior Art
+The neem tree, a tropical evergreen, has been used for centuries as a source of pesticides to which insects have not developed a resistance. Various neem seed extracts, particularly the ones containing the hydrophilic, tetranortriterpenoid azadirachtin, are known to influence the feeding behavior, metamorphosis (insect growth regulating [IGR] effect), fecundity, and fitness of numerous insect species belonging to various orders.
+It is known that neem oil, containing azadirachtin, may be mechanically pressed from neem seeds in the cold by using oil presses or may be extracted using alcohols or other solvents using Soxhlet apparatus. Small amounts of neem oil can be obtained by kneading neem seed powder by hand after adding some water. Thus the term 'neem oil' has been used to describe a variety of materials containing a mixture of both hydrophilic and hydrophobic extractables. The variety of extraction methods and resultant variety in composition of neem oil has led to great confusion as to the true properties of "neem oil". Khan and Wassilew, Proc. 3rd Int. Neem Conf., 645-650 (1986) tested the effect of their "neem oil" (prepared by aqueous extraction of neem kernels) on 14 common fungi, including
+Trichophytonrubrum
+,
+T. violaceus
+,
+T. concentrichus,
+T. mentagrophytes
+,
+Enidermophyton
+floccosum
+,
+Mierosporum
+citaneum
+,
+Scrophulariopsis
+brevicaulis
+,
+Geotrichum
+candidum
+and
+Fusarium sp
+and found that it did not inhibit fungal growth and, in fact, the neem oil itself actually contained several species of growing fungi. Yet an anonymous article reported that "10% Neem oil diluted from its emulsifiable concentrate formulation" completely inhibited several species of fungi such as
+Aspergillus
+niger
+,
+Fusarium
+moniliforme
+,
+Macrophomina
+phaseolina
+and
+Drechslera
+rostrata
+. However, the specific details of this formulation were not provided.
+Similarly, there are discrepencies in the literature as to the use of neem oil to control insects. Schmutterer and Hallpap, Vol. 1: The Neem Tree, "Effects of Neem on Pests of Vegetable and Fruit Trees", 69-83 (1986) showed that aqueous neem seed extracts are significantly superior to neem oil in repelling leaf mites (
+Scrobipalpa
+ergasina
+), leaf roller (
+Phycita melogenu
+) and leaf hopper (
+Jacobiella
+facialna
+). While Mansour et al., Proc. 3rd Int. Neem Conf., 577-587, Nairobi (1986) report that the pentane extract of neem seeds was much more effective at controlling the spider mite
+Tetranychus
+cinnabarinus
+than were ethanol or methanol extracts, but surprisingly, the pentane extract was less effective at controlling the mite,
+Phytoseiulus
+persimilis
+than were the ethanol or methanol extracts.
+Yamasaki, et al
+, Journal of Chromatography, Vol. 447, 277-283 (1988), showed that the tetranortriterpenoid, salannin, can be isolated from crude plant extracts, obtained from Indian neem seeds which are known to be high in salannin content, using hexane. The biological activity of the salannin extract is reported to be feeding deterency and growth inhibition when applied to chewing insects such as beetles and caterpillers.
+From Entomology Experimentalis et Applicata, vol. 24, no. 3, 1978, pages 448-450 it is known to use a neem seed extract produced by extraction with hexane. The crude hexane extract of the neem seed is crystallized from an acetone solution, filtered and freed from solvent under reduced pressure and is reported to have insecticidal properties as repellant, reduction of egg deposition. This extract may be used in an aqueous emulsion containing 0.2% Tween 20
+R
+as surfactant.
+From Phytoparasitica, vol. 11, no. 3/4, 1983, pages 177-185 it is known to use chloroform and pentane extracts of neem seed against carmine spider mite (repellency, reduction of fecundity of adult females). The neem seed is extracted with pentane or chloroform, the resultant mixture is filtered and finally the solvents are evaporated.
+However, the use of the neem oil extract (extracted by a non-polar solvent) as foliar fungicide is neither disclosed in the state of the art nor is it derivable therefrom although the principle fungicidal effect of neem seed is known from the state of the art (Biological Abstracts, vol. 71, no. 12, 1987, abstract no. 83379).
+It has now been discovered that under the process of this invention, a non-polar hydrophobic-solvent extracted neem oil, substantially free of azadirachtin, possesses the ability to control the growth of serious fungal pathogens. This activity as fungicide in the absence of azadirachtin is novel and unique.
+The fungicidal activities of hydrophobicly extracted neem oil is unique and unexpected in view of the absence of any known active ingredients.
+Summary of the Invention
+It is an object of this invention to provide a novel pesticide that controls the growth of various fungi.
+Another object of this invention is to provide a natural pesticide formulation derived from neem seed extracts for the protection of plants from various fungal pests.
+To reach the objects of the invention there is suggested the method according to claims 1 to 6.
+In accordance with the present invention, there have been provided certain novel pesticide formulations derived from seed extracts, said formulations comprising non-polar hydrophobic-solvent extracted neem oil fractions, that are substantially free of azadirachtin and salannin.
+Detailed Description
+Some active ingredients of the seeds and leaves of the tropical neem tree,
+Azadirachtin
+indica
+, particularly the tetranortriterpenoids azadirachtin and salannin, are known for their potent pesticidal activities. The present invention is directed to various pesticide formulations prepared from neem oil which are substantially free of azadirachtin, and yet said formulations possess the ability to control fungal pathogens.
+Neem seeds can be quite variable in size, shape and composition. Seeds from around the world can be as small and round as a pea and as large and long as a bean. Neem seeds consist of two parts, a shell that does not contain oil or pesticidal activity and the kernal which contains oil and azadirachtin. However, the composition of seeds collected from throughout the world varies considerably as shown in Table A. In particular we have found that oil derived from neem trees with high azadirachtin concentration is fungicidal.
+Table A
+Seeds Source
+% Kernal in Seed
+% Volatile
+Content Oil %
+AZAD mg/gsk*
+Senegal (Pout)
+54
+7
+22
+6.6
+India (Punjab)
+55
+5.8
+30
+1.6
+Togo (Atkpame)
+57
+7.3
+27
+4.5
+Haiti (Arcahie)
+51
+12.0
+19
+2.7
+Ghana (Bawk)
+57
+6.4
+14
+3.9
+*gsk = gram seed kernel
+The pesticide formulations of this invention are prepared from neem oil which has been extracted from, dried, coarsely ground neem seeds with a suitable non-polar, hydrophobic solvent. In accordance with this invention, dried neem seeds, typically containing about 5 to 15% water, are coarsely ground to about 4 mm sieve opening (5 mesh). The ground neem seeds are then extracted with a non-polar hydrophobic solvent to remove neem oil. It is preferred to use a significant excess of solvent ( 3 to 1 w/w) to obtain good yields. The solvent must be suitably hydrophobic to prevent excess water from contaminating the product. Water in the extract will cause azadirachtin to be extracted from the seeds and result in hydrolysis of the extract. After extraction, the solvent is removed from the extract by low temperature evaporation, preferably by vacuum evaporation to yield the neem oil product.
+Final pesticide formulations, in accordance with this invention, can be prepared by diluting the neem oil with about 5 to 50% preferably 5 to 20% and most preferably 7 to 15% by volume emulsifying surfactant and may optionally contain 0-1% PABA. Suitable emulsifying surfactants include sorbitan esters, ethoxylated and propoxylated mono and diglycerides, acetylated mono- or diglycerides, lactylated mono- or diglycerides, citric acid esters of mono- or diglycerides, sugar esters, polysorbates, poly-glycerol esters, and the like, and mixtures thereof. The preferred emulsifying surfactants are the polyoxyethylene derivatives of fatty acid partial esters of sorbital anhydrides which are sold under the name Tween® 20, Tween® 40, Tween® 60 and Tween® 80. Prior to final application, these pesticide formulations are typically diluted with water.
+For foliar application it has been observed that rates of 0.1 to 10%, preferably 0.25 to 3% neem oil diluted in water is effective for control of insect pests and fungal diseases without unacceptable plant damage. Neem oil may also be used at various dilutions to control various pest and disease problems on turf, horticultural and agricultural crops as well as stored fruits and vegetables. The neem oil formulations have been shown to be effective at controlling fungi such as mildews, rusts, dollar spot, brown patch, black spots, botrytis, and the like.
+Suitable non-polar, hydrophobic solvents for use in extracting the neem oil from the ground neem seeds will include those solvents having high neem oil solubility and substantially no azadirachtin or water solubility. The preferred non-polar solvents include, but are not limited to, aliphatic hydrocarbons and halogenated aliphatic hydrocarbons such as pentane, hexane, heptane, octane, nonane, decane, isooctane, chloropentane, chlorohexane, and the like, and their isomers; petroleum distillates, petroleum ether, and the like; aromatics and substituted aromatics such as benzene, toluene, chlorobenzene, benzaldehyde, xylenes, and the like; and mixtures thereof. Various other non-polar solvents having the above characteristics are well known to those skilled in the art, and the choice of a particular solvent is not per se critical to the invention, provided that it is substantially azadirachtin-insoluble and neem oil has a high degree of solubility therein.
+Example 1
+This example illustrates the effectiveness of the non-polar, hydrophobic-solvent extracted neem oil formulations of this invention on the Control of Bean Rust
+Neem oil was extracted according to the following procedure.
+Eighty (80) kgs of dried defruited neem seeds from Africa were ground in a cutting mill to about 2 mm seive opening (10 mesh). The ground seeds were added to a 300 gallon (1136.ℓ) agitated vessel together with 140 gallons (529 ℓ) of hexane and agitated for 18 hours. The extracted seeds were then separated from the hexane-neem oil solution by centrifugation. The hexane-neem oil solution was transferred to a 500 ml jacketed agitated vessel where the solution was heated to 165°F (74°C) to remove the excess hexane. The recovered neem oil had a hexane content of 1%.
+The extracted neem oil was mixed with water and diluted to 0.25, 0.5, and 1% and sprayed on the fully expanded primary leaves of beans cv. Pinto 111 until run off. The leaves were then inoculated with bean rust (
+Uromyces
+phaseoli
+) spores and placed in a dew chamber to allow infection. After approximately 16 hours the bean plants were removed from the dew chamber and placed in a greenhouse. After seven (7) days the number of rust pustules were counted. The results, in Table 4, show that the extracted neem oil is an effective foliar fungicide at these concentrations.
+Table 4
+Treatment
+Pustules/100 cm²*
+% Control
+Control
+1174.4 a
+0
+0.25%
+220.0 b
+81.1
+0.50%
+116.6 b
+90.2
+1.00%
+114.2 b
+90.2
+* Treatments with same letter are statistically similar; DMRT, P = 0.05 (Probability <95%), N = 6.
+Example 2
+Control of Mildew on Hydrangea
+A solution of 2% extracted neem oil in water was sprayed on 5 hydrangias plants growing in greenhouse. The treated plants and an equal number of untreated plants were exposed to the natural mildew microrganisms found in the greenhouse for 6 weeks. At the end of this period the leaves of the plants were examined for mildew infestion. The untreated plants had an average of 46% of their leaves infested while the treated plants had 1.7% infestation.
+Claims (
+10
+)
+A method of controlling fungi on plants comprising contacting the fungi with a neem oil formulation containing 0.1 to 10% of a hydrophobic extracted neem oil which is substantially free of azadirachtin, 0.005 to 5.0% of emulsifying surfactant and 0 to 99% water.
+The method according to Claim 1 wherein the neem oil formulation contains 0.25 to 3% neem oil.
+The method according to Claim 1 wherein the fungi are selected from the group consisting of mildews, rusts, leaf spots, dollar spots, brown patch and botrytis.
+The method of claim 1 wherein the fungi is contacted with the neem oil formulation on the surface of the pla nts.
+The method of claim 4 wherein the fungi is contacted with the neem oil formulation by spraying.
+The method of claim 1 wherein the plants are turf, horticultural or agricultural crops.
+A method for protecting a plant from fungi infestation comprising contacting the plant with a neem oil formulation containing 0.1 to 10 of a hydrophobic extracted neem oil which is substantially free of azadirachtin, 0.005 to 5.0% of emulsifying surfactant and 0 to 99% of water.
+The method of Claim 7 wherein the plant is contacted with the neem oil formulation by spraying.
+The method of Claim 7 wherein the plants are turf, horticultural or agricultural crops.
+The method of Claim 7 wherein the plant is contacted with a fungicidally effective amount of the neem formulation.
+EP90250319A
+1989-12-26
+1990-12-20
+Method for controlling fungi on plants by the aid of a  hydrophobic extracted neem oil
+Revoked
+EP0436257B1
+(
+en
+)
+Applications Claiming Priority (2)
+Application Number
+Priority Date
+Filing Date
+Title
+US45676289A
+1989-12-26
+1989-12-26
+US456762
+1989-12-26
+Publications (2)
+Publication Number
+Publication Date
+EP0436257A1
+EP0436257A1
+(
+en
+)
+1991-07-10
+EP0436257B1
+true
+EP0436257B1
+(
+en
+)
+1994-09-14
+Family
+ID=23814062
+Family Applications (1)
+Application Number
+Title
+Priority Date
+Filing Date
+EP90250319A
+Revoked
+EP0436257B1
+(
+en
+)
+1989-12-26
+1990-12-20
+Method for controlling fungi on plants by the aid of a  hydrophobic extracted neem oil
+Country Status (8)
+Country
+Link
+EP
+(
+1
+)
+EP0436257B1
+(
+en
+)
+JP
+(
+1
+)
+JP2986222B2
+(
+en
+)
+AT
+(
+1
+)
+ATE111307T1
+(
+en
+)
+AU
+(
+1
+)
+AU633622B2
+(
+en
+)
+CA
+(
+1
+)
+CA2013754C
+(
+en
+)
+DE
+(
+1
+)
+DE69012538T2
+(
+en
+)
+ES
+(
+1
+)
+ES2060004T3
+(
+en
+)
+NZ
+(
+1
+)
+NZ236580A
+(
+en
+)
+Families Citing this family (14)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+US5356628A
+(
+en
+)
+*
+1989-12-26
+1994-10-18
+W. R. Grace & Co.-Conn.
+Hydrophobic extracted neem oil-a novel fungicide
+US5372817A
+(
+en
+)
+*
+1991-01-03
+1994-12-13
+W. R. Grace & Co.-Conn.
+Insecticidal compositions derived from neem oil and neem wax fractions
+CA2039918C
+(
+en
+)
+*
+1991-01-03
+2001-01-02
+James Frederic Walter
+Novel pesticidal compositions derived from neem oil and neem wax fractions
+GB2252906B
+(
+en
+)
+*
+1991-02-23
+1995-01-25
+Midland Biocides Limited
+Biocidal use of naturally occurring oils
+DE4109473A1
+(
+en
+)
+*
+1991-03-22
+1992-09-24
+Kleeberg Hubertus Dr
+METHOD FOR PRODUCING A STORAGEABLE AZADIRACHT-INSECTICIDE FROM SEED SEEDS OF THE NEEM TREE
+DE4229815A1
+(
+en
+)
+*
+1992-09-07
+1994-03-10
+Schaette Geb Kg
+Use of Meliaceen plants or parts of plants as a crop protection agent with a fungicidal action
+US5281618A
+(
+en
+)
+*
+1992-09-21
+1994-01-25
+W. R. Grace & Co.-Conn.
+Storage stable high azadirachtin solution
+US6733802B1
+(
+en
+)
+1997-12-17
+2004-05-11
+Fortune Bio-Tech Limited
+Natural azadirachtin composition
+EP0930073B1
+(
+en
+)
+1998-01-14
+2004-08-04
+National Research Development Corporation of India
+Process for preparation of spermicidal agent
+EP0931550B1
+(
+en
+)
+*
+1998-01-26
+2004-09-22
+National Research Development Corporation, a Government of India Undertaking
+A process for the preparation of a spermicidal agent
+EP2789238A4
+(
+en
+)
+*
+2011-12-07
+2015-08-12
+Ipel Itibanyl Produtos Especiais Ltda
+MICROBICIDAL COMPOSITION AND METHOD FOR OBTAINING THE SAME
+CN103828657B
+(
+en
+)
+*
+2014-03-17
+2015-08-26
+河北工程大学
+A kind of biological control method of grape grey mould
+US20160081352A1
+(
+en
+)
+*
+2014-09-23
+2016-03-24
+Luis Augusto Mazariegos
+Pest control formulation of Neem and Beauveria bassiana and methods of making and using same
+US12466773B2
+(
+en
+)
+*
+2025-02-07
+2025-11-11
+Hubert Dadie DANCHI
+Multifunctional agricultural composition and method for preparation thereof
+Family Cites Families (2)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+US4556562A
+(
+en
+)
+*
+1984-03-19
+1985-12-03
+Vikwood, Ltd.
+Stable anti-pest neem seed extract
+DE3912059A1
+(
+en
+)
+*
+1989-04-13
+1990-10-18
+Wilfried Bobles
+Controlling wood damaging insects with neem oil - or an extract with low polarity hydrocarbon, esp. effective against bark beetles
+1990
+1990-04-03
+CA
+CA002013754A
+patent/CA2013754C/en
+not_active
+Expired - Fee Related
+1990-09-18
+AU
+AU62627/90A
+patent/AU633622B2/en
+not_active
+Ceased
+1990-12-20
+DE
+DE69012538T
+patent/DE69012538T2/en
+not_active
+Revoked
+1990-12-20
+EP
+EP90250319A
+patent/EP0436257B1/en
+not_active
+Revoked
+1990-12-20
+AT
+AT90250319T
+patent/ATE111307T1/en
+not_active
+IP Right Cessation
+1990-12-20
+NZ
+NZ236580A
+patent/NZ236580A/en
+unknown
+1990-12-20
+ES
+ES90250319T
+patent/ES2060004T3/en
+not_active
+Expired - Lifetime
+1990-12-25
+JP
+JP2412965A
+patent/JP2986222B2/en
+not_active
+Expired - Fee Related
+Also Published As
+Publication number
+Publication date
+AU6262790A
+(
+en
+)
+1991-07-04
+DE69012538D1
+(
+en
+)
+1994-10-20
+DE69012538T2
+(
+en
+)
+1995-01-12
+JPH04364103A
+(
+en
+)
+1992-12-16
+CA2013754C
+(
+en
+)
+2000-02-29
+ES2060004T3
+(
+en
+)
+1994-11-16
+NZ236580A
+(
+en
+)
+1992-04-28
+EP0436257A1
+(
+en
+)
+1991-07-10
+CA2013754A1
+(
+en
+)
+1991-06-26
+AU633622B2
+(
+en
+)
+1993-02-04
+ATE111307T1
+(
+en
+)
+1994-09-15
+JP2986222B2
+(
+en
+)
+1999-12-06
+Similar Documents
+Publication
+Publication Date
+Title
+US5411736A
+(
+en
+)
+1995-05-02
+Hydrophic extracted neem oil-a novel insecticide
+DE69526251T2
+(
+en
+)
+2002-10-02
+REGULATING THE CONTENT OF TOXIC METABOLITES IN FOOD
+US5372817A
+(
+en
+)
+1994-12-13
+Insecticidal compositions derived from neem oil and neem wax fractions
+Jackai et al.
+1991
+The Potential of Neem Azadirachta Indica A. Juss. for Controlling Post-Flowering Pests of Cowpea, Vigna Unguiculata Walp—I. The Pod Borer, Maruca Testulalis
+Ivbijaro
+1990
+The efficacy of seed oils of Azadirachta indica A. Juss and Piper guineense Schum and Thonn on the control of Callosobruchus maculatus F.
+Adedire
+2002
+Use of nutmeg Myristica fragrane (Houtt.) powder and oil for the control of cowpea storage bruchid, Callosobruchus maculatus Fabricius/Verwendung von Pulver und Ölaus Samen der Muskatnuss (Myristica fragans Houtt.) zur Bekämpfung von Callosobruchus maculatus Fabricius, einem Lagerschädling an Kundebohnen
+US10149476B2
+(
+en
+)
+2018-12-11
+Pesticidal plant extract containing loline derivatives
+CA2013754C
+(
+en
+)
+2000-02-29
+Hydrophobic extracted neem oil - a novel insecticide and fungicide
+Khani et al.
+2013
+Toxicity, antifeedant, egg hatchability and adult emergence effect of Piper nigrum L. and Jatropha curcas L. extracts against rice moth, Corcyra cephalonica (Stainton)
+US5368856A
+(
+en
+)
+1994-11-29
+Hydrophobic extracted neem oil-a novel fungicide use
+US5356628A
+(
+en
+)
+1994-10-18
+Hydrophobic extracted neem oil-a novel fungicide
+EP0578878B1
+(
+en
+)
+1996-10-23
+Neem oil fatty acid distillation residue based pesticide
+EP0494067B1
+(
+en
+)
+1997-08-13
+Novel pesticidal compositions derived from neem oil and neem wax fractions
+US5626848A
+(
+en
+)
+1997-05-06
+Reduced-cloud-point clarified neem oil and methods of producing
+KR100644750B1
+(
+en
+)
+2006-11-14
+Method for producing a natural extract having insecticidal, bactericidal and pest repellent action.
+KR20030031331A
+(
+en
+)
+2003-04-21
+Antifungal compound and its composition containing Cinnamomum cassia extract.
+Meisner et al.
+1985
+Effect of an aqueous extract of neem seed kernel on larvae of the European corn borer, Ostrinia nubilalis
+Obeng-Ofori et al.
+2001
+Efficacy of products derived from Ricinus communis (L.) and Solanum nigrum (L.) against Sitophilus oryzae (L.) and Tribolium castaneum (Herbst) in stored maize
+WO2011109855A1
+(
+en
+)
+2011-09-15
+Improvements in pesticides and fungicides
+Malgwi et al.
+2022
+Effects of balanite (Balanites aegyptiaca) and neem (Azadirachta indica) oils against the tropical warehouse moth (Ephestia cautella) in stored maize
+KR20050087965A
+(
+en
+)
+2005-09-01
+Natural agri-chemical composition comprising aglaia odorata lour extracts
+KR20250067347A
+(
+en
+)
+2025-05-15
+Composition for controlling plant disease, including pepper anthracnose, and method for controlling plant disease using the composition
+WO2025135354A1
+(
+en
+)
+2025-06-26
+Agricultural pesticide composition and use thereof
+Freeman et al.
+1983
+Plants protecting plants: the use of insect feeding deterrents
+MXPA97000925A
+(
+en
+)
+1998-01-01
+Clarified azadirachta oil and methods for your producc
+Legal Events
+Date
+Code
+Title
+Description
+1991-05-24
+PUAI
+Public reference made under article 153(3) epc to a published international application that has entered the european phase
+Free format text
+:
+ORIGINAL CODE: 0009012
+1991-07-10
+17P
+Request for examination filed
+Effective date
+:
+19910225
+1991-07-10
+AK
+Designated contracting states
+Kind code of ref document
+:
+A1
+Designated state(s)
+:
+AT BE CH DE DK ES FR GB GR IT LI LU NL SE
+1991-10-16
+D17P
+Request for examination filed (deleted)
+1992-01-22
+R17P
+Request for examination filed (corrected)
+Effective date
+:
+19911128
+1992-10-21
+17Q
+First examination report despatched
+Effective date
+:
+19920908
+1994-07-29
+GRAA
+(expected) grant
+Free format text
+:
+ORIGINAL CODE: 0009210
+1994-09-14
+AK
+Designated contracting states
+Kind code of ref document
+:
+B1
+Designated state(s)
+:
+AT BE CH DE DK ES FR GB GR IT LI LU NL SE
+1994-09-14
+PG25
+Lapsed in a contracting state [announced via postgrant information from national office to epo]
+Ref country code
+:
+GR
+Free format text
+:
+LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT
+Effective date
+:
+19940914
+Ref country code
+:
+DK
+Effective date
+:
+19940914
+Ref country code
+:
+AT
+Effective date
+:
+19940914
+1994-09-14
+REF
+Corresponds to:
+Ref document number
+:
+111307
+Country of ref document
+:
+AT
+Date of ref document
+:
+19940915
+Kind code of ref document
+:
+T
+1994-10-20
+REF
+Corresponds to:
+Ref document number
+:
+69012538
+Country of ref document
+:
+DE
+Date of ref document
+:
+19941020
+1994-11-16
+REG
+Reference to a national code
+Ref country code
+:
+ES
+Ref legal event code
+:
+FG2A
+Ref document number
+:
+2060004
+Country of ref document
+:
+ES
+Kind code of ref document
+:
+T3
+1994-12-13
+ITF
+It: translation for a ep patent filed
+1994-12-14
+PG25
+Lapsed in a contracting state [announced via postgrant information from national office to epo]
+Ref country code
+:
+SE
+Effective date
+:
+19941214
+1994-12-23
+ET
+Fr: translation filed
+1994-12-31
+PG25
+Lapsed in a contracting state [announced via postgrant information from national office to epo]
+Ref country code
+:
+LU
+Free format text
+:
+LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES
+Effective date
+:
+19941231
+1995-06-19
+PLBI
+Opposition filed
+Free format text
+:
+ORIGINAL CODE: 0009260
+1995-08-09
+26
+Opposition filed
+Opponent name
+:
+ALVOET, MAGDA, MEP, THE GREEN GROUP IN THE EUROPEA
+Effective date
+:
+19950614
+1995-10-02
+NLR1
+Nl: opposition has been filed with the epo
+Opponent name
+:
+ALVOET, MAGDA, MEP, THE GREEN GROUP IN THE EUROPEA
+1995-10-05
+PLAB
+Opposition data, opponent's data or that of the opponent's representative modified
+Free format text
+:
+ORIGINAL CODE: 0009299OPPO
+1995-11-22
+R26
+Opposition filed (corrected)
+Opponent name
+:
+ALVOET, MAGDA, MEP, THE GREEN GROUP IN THE EUROPEA
+Effective date
+:
+19950614
+1996-01-02
+NLR1
+Nl: opposition has been filed with the epo
+Opponent name
+:
+ALVOET, MAGDA, MEP, THE GREEN GROUP IN THE EUROPEA
+1996-02-12
+PLBF
+Reply of patent proprietor to notice(s) of opposition
+Free format text
+:
+ORIGINAL CODE: EPIDOS OBSO
+1996-04-19
+PLBF
+Reply of patent proprietor to notice(s) of opposition
+Free format text
+:
+ORIGINAL CODE: EPIDOS OBSO
+1996-12-13
+REG
+Reference to a national code
+Ref country code
+:
+CH
+Ref legal event code
+:
+PUEA
+Free format text
+:
+THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF AGRICULTURE;W. R. GRACE & CO.-CONN. TRANSFER- THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF AGRICULTURE;THERMO TRILOGY CORPORATION
+1997-09-05
+REG
+Reference to a national code
+Ref country code
+:
+FR
+Ref legal event code
+:
+TP
+2001-02-07
+RDAH
+Patent revoked
+Free format text
+:
+ORIGINAL CODE: EPIDOS REVO
+2001-04-09
+APAC
+Appeal dossier modified
+Free format text
+:
+ORIGINAL CODE: EPIDOS NOAPO
+2001-04-12
+APAE
+Appeal reference modified
+Free format text
+:
+ORIGINAL CODE: EPIDOS REFNO
+2001-06-18
+APAC
+Appeal dossier modified
+Free format text
+:
+ORIGINAL CODE: EPIDOS NOAPO
+2001-08-08
+RAP2
+Party data changed (patent owner data changed or rights of a patent transferred)
+Owner name
+:
+THE UNITED STATES OF AMERICA AS REPRESENTED BY TH
+Owner name
+:
+THERMO TRILOGY CORPORATION
+2001-10-01
+NLT2
+Nl: modifications (of names), taken from the european patent patent bulletin
+Owner name
+:
+THERMO TRILOGY CORPORATION EN THE UNITED STATES OF
+2002-01-01
+REG
+Reference to a national code
+Ref country code
+:
+GB
+Ref legal event code
+:
+IF02
+2002-06-14
+REG
+Reference to a national code
+Ref country code
+:
+CH
+Ref legal event code
+:
+PUE
+Owner name
+:
+THE UNITED STATES OF AMERICA AS REPRESENTED BY THE
+2003-04-18
+REG
+Reference to a national code
+Ref country code
+:
+FR
+Ref legal event code
+:
+TQ
+2003-07-18
+APBY
+Invitation to file observations in appeal sent
+Free format text
+:
+ORIGINAL CODE: EPIDOSNOBA2O
+2003-08-12
+APBY
+Invitation to file observations in appeal sent
+Free format text
+:
+ORIGINAL CODE: EPIDOSNOBA2O
+2003-10-09
+APBY
+Invitation to file observations in appeal sent
+Free format text
+:
+ORIGINAL CODE: EPIDOSNOBA2O
+2004-01-20
+APBY
+Invitation to file observations in appeal sent
+Free format text
+:
+ORIGINAL CODE: EPIDOSNOBA2O
+2004-02-12
+PGFP
+Annual fee paid to national office [announced via postgrant information from national office to epo]
+Ref country code
+:
+BE
+Payment date
+:
+20040212
+Year of fee payment
+:
+14
+2004-02-17
+APCA
+Receipt of observations in appeal recorded
+Free format text
+:
+ORIGINAL CODE: EPIDOSNOBA4O
+2004-12-07
+APBI
+Information on receipt of observation in appeal deleted
+Free format text
+:
+ORIGINAL CODE: EPIDOSDOBA4O
+2004-12-07
+APBY
+Invitation to file observations in appeal sent
+Free format text
+:
+ORIGINAL CODE: EPIDOSNOBA2O
+2004-12-15
+PGFP
+Annual fee paid to national office [announced via postgrant information from national office to epo]
+Ref country code
+:
+GB
+Payment date
+:
+20041215
+Year of fee payment
+:
+15
+2004-12-16
+PGFP
+Annual fee paid to national office [announced via postgrant information from national office to epo]
+Ref country code
+:
+DE
+Payment date
+:
+20041216
+Year of fee payment
+:
+15
+2004-12-23
+PGFP
+Annual fee paid to national office [announced via postgrant information from national office to epo]
+Ref country code
+:
+FR
+Payment date
+:
+20041223
+Year of fee payment
+:
+15
+2004-12-29
+PGFP
+Annual fee paid to national office [announced via postgrant information from national office to epo]
+Ref country code
+:
+NL
+Payment date
+:
+20041229
+Year of fee payment
+:
+15
+Ref country code
+:
+CH
+Payment date
+:
+20041229
+Year of fee payment
+:
+15
+2005-01-18
+APCA
+Receipt of observations in appeal recorded
+Free format text
+:
+ORIGINAL CODE: EPIDOSNOBA4O
+2005-01-21
+PGFP
+Annual fee paid to national office [announced via postgrant information from national office to epo]
+Ref country code
+:
+ES
+Payment date
+:
+20050121
+Year of fee payment
+:
+15
+2005-04-30
+APBU
+Appeal procedure closed
+Free format text
+:
+ORIGINAL CODE: EPIDOSNNOA9O
+2005-05-13
+RDAG
+Patent revoked
+Free format text
+:
+ORIGINAL CODE: 0009271
+2005-05-13
+STAA
+Information on the status of an ep patent application or granted ep patent
+Free format text
+:
+STATUS: PATENT REVOKED
+2005-06-15
+REG
+Reference to a national code
+Ref country code
+:
+CH
+Ref legal event code
+:
+PL
+2005-06-29
+27W
+Patent revoked
+Effective date
+:
+20050308
+2005-06-29
+GBPR
+Gb: patent revoked under art. 102 of the ep convention designating the uk as contracting state
+Free format text
+:
+20050308
+2005-09-01
+NLR2
+Nl: decision of opposition
+Effective date
+:
+20050308
+2005-10-05
+APAH
+Appeal reference modified
+Free format text
+:
+ORIGINAL CODE: EPIDOSCREFNO

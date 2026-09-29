@@ -1,0 +1,10 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.env
+ip_sakti_users.db
+.DS_Store
+.ipynb_checkpoints/
+anaconda_projects/
+venv/
