@@ -8,3 +8,8 @@ ip_sakti_users.db
 .ipynb_checkpoints/
 anaconda_projects/
 venv/
+
+# Excluded Notebooks & Datasets
+finetuning_dataset/
+04_dataset_generator.ipynb
+05_finetuning_colab.ipynb
