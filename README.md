@@ -2,11 +2,8 @@
 
 **A Comprehensive Agentic AI Decision Engine for Ayurvedic Intellectual Property (IP), Regulatory Compliance, and Traditional Knowledge Protection.**
 
-Built for the **Smart India Hackathon (SIH)**.
 
----
-
-## 🌟 The 13 Key Innovations (USPs)
+## 🌟 Key Innovations 
 
 Unlike standard AI chatbots, IP-Shakti Sahayak features a deterministic, mathematically verifiable backend engine designed specifically to protect India's Traditional Knowledge.
 
